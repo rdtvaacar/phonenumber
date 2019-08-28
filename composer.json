@@ -1,5 +1,5 @@
 {
-  "name": "brick/phonenumber",
+  "name": "rdtvaacar/phonenumber",
   "description": "Phone number library",
   "type": "library",
   "keywords": [
@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Brick\\PhoneNumber\\": "src/"
+      "Rdtvaacar\\PhoneNumber\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Brick\\PhoneNumber\\Tests\\": "tests/"
+      "Rdtvaacar\\PhoneNumber\\Tests\\": "tests/"
     }
   }
 }
